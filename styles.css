@@ -1,0 +1,53 @@
+body{
+    background-color: #FAF1E6;
+}
+.description{
+    font-style: italic;
+}
+.around{
+    background-color:#A6CB12;
+}
+.display-5{
+    font-family: 'Roboto', sans-serif;
+}
+.lead{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+}
+.navbar{
+    background-color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+.text{
+    font-size: 25px;
+}
+footer{
+    background-color: #000000;
+}
+.saying{
+    color: #FAF1E6;
+}
+.btn-primary{
+    --bs-btn-bg: var(--bs-orange)
+}
+.card{
+    border: orange solid 1px;
+}
+.card-body{
+    background-color: #A6CB12;
+    border:orange solid 1px;
+}
+.bg{
+    background-color: #A6CB12;
+}
+.bg1{
+    background-color: #000000;
+}
+.accordion-body{
+    background-color: #CFE8A9;
+}
+.head{
+    color:#0A1D37;
+    font-size: 25px;
+}
